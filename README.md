@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pull-me-even-closer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Pull Me Even Closer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pull-me-even-closer/) |
+| **Get License** | [Request Licensing for Pull Me Even Closer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pull-me-even-closer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the heat when you look my way
+> Every quiet word that we don't even say
+> Tangled in the dark with nothing to prove
+> Pull me even closer, let our bodies move
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
